@@ -20,9 +20,9 @@ Served as the **first responsible person**, overseeing overall project planning,
 - Optimized data processing algorithms using MLP, significantly improving measurement precision.
 
 #### **LLM for Chemistry**
-**November 2024 – January 2025 | Suzou lab & SJTU**
+**November 2024 – January 2025 | Suzhou lab & SJTU**
 
-Engaged in self-study of PyTorch and other deep learning frameworks to assist the project team in adjusting Transformer architectures. Contributed to the development of a paper titled "DIMST: A Chemical Knowledge-enhanced Multi-view Transformer Model for Structural Elucidation of Mass Spectra," which is currently under submission to ICML.
+Engaged in self-study of PyTorch and other deep learning frameworks to assist the project team in adjusting Transformer architectures. Contributed to the development of a paper titled "DIMST: A Chemical Knowledge-enhanced Multi-view Transformer Model for Structural Elucidation of Mass Spectra" which is currently under submission to ICML.
 
 ##### Key Contributions:
 - Assisted in the adjustment and optimization of Transformer models for chemical structure elucidation.
@@ -33,7 +33,7 @@ Engaged in self-study of PyTorch and other deep learning frameworks to assist th
 #### **Executive Chairperson** of the 19th Student Council, 
 **December 2023 – May 2024 | School of Physics and Astronomy**      
 - Led and managed daily operations of the student council, responsible for planning and executing campus activities.
-- Achieved a Silver Award (third place in the school) during the annual student council evaluation.
+- Achieved a **Silver Award** (third place in the school) during the annual student council evaluation.
 - Established cooperation with renowned enterprises and organizations to provide career planning guidance and workshops for students.
 ##### Key Contributions:
 - Ensured efficient operation of the student council and smooth execution of events.
