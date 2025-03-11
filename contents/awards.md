@@ -2,5 +2,6 @@
 - 春耕奖学金, 2024.
 - 校级B等奖学金, 2023, 2024.  
 - 优秀学生干部, 2023.
+- 三好学生, 2024.
 - AI 赋能大学计划·上海交通大学站 三等奖, 2025.
-- China Undergraduate Mathematical Contest in Modelling(Shanghai), Second Prize, 2024.
+- 全国大学生数学竞赛上海赛区 二等奖, 2024.
