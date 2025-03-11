@@ -15,7 +15,7 @@ Hi! My name is Hua-Yang Wang, and I am currently a junior undergraduate student 
 <code>polife27778888@gmail.com</code>
 
 #### Education  
-**Shanghai Jiao Tong University**, 2022 – Present
+**Shanghai Jiao Tong University**, 2022 – Present       
 • GPA: 3.7/4.3  
 
 **National Tsing Hua University**, Summer Academic Exchange (July 2024)         
