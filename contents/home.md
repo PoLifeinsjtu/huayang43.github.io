@@ -16,7 +16,7 @@ Hi! My name is Hua-Yang Wang, and I am currently a junior undergraduate student 
 
 #### Education  
 **Shanghai Jiao Tong University**, 2022 – Present       
-• GPA: 3.7/4.3  
+• GPA: 3.71/4.3  
 
 **National Tsing Hua University**, Summer Academic Exchange (July 2024)         
 • Participated in a one-month program at NTHU, focusing on using C++ to implement theoretical knowledge in particle physics.           
