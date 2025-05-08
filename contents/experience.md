@@ -1,7 +1,7 @@
 ### **Research Project Experience**
 
 #### **Using Deep Learning Models and Artificial Intelligence Neural Networks to Search for Dark Matter Particles**
-**September 2023 – Present**
+**September 2023 – April 2025**
 
 Utilized C++ programming language and Kalman Filter to optimize particle tracking models, leveraging high-energy physics ROOT software for experimental data analysis. Currently involved in the process of using GNN models to reconstruct tracks and search for vertex points.
 
@@ -11,7 +11,7 @@ Utilized C++ programming language and Kalman Filter to optimize particle trackin
 - Utilized ROOT software for comprehensive experimental data analysis and visualization.
 
 #### **Application of Optical Thomson Scattering Technology in Laser Fusion and Other Fields**
-**April 2024 – Present**
+**April 2024 – April 2025**
 
 Served as the **first responsible person**, overseeing overall project planning, experimental design, and data analysis. Employed MLP optimization to refine data processing algorithms, thereby enhancing the accuracy of measurement results.
 
