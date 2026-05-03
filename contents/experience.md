@@ -8,7 +8,7 @@ Utilized C++ programming language and Kalman Filter to optimize particle trackin
 ##### Key Contributions:
 - Developed and optimized deep learning models(GNN) for enhanced dark matter particle detection.
 - Implemented Kalman Filter techniques to improve particle tracking accuracy.
-- Utilized ROOT software for comprehensive experimental data analysis and visualization.
+- Awarded the title of "Zheng Scholar" and presented research findings at academic workshops including DarkShine and AI+HEP in East Asia.
 
 #### **Application of Optical Thomson Scattering Technology in Laser Fusion and Other Fields**
 **April 2024 – April 2025**
@@ -19,13 +19,22 @@ Served as the **first responsible person**, overseeing overall project planning,
 - Led the project team in developing innovative applications of optical Thomson scattering technology.
 - Optimized data processing algorithms using MLP, significantly improving measurement precision.
 
-#### **LLM for Chemistry**
-**November 2024 – January 2025 | Suzhou lab & SJTU**
-
-Engaged in self-study of PyTorch and other deep learning frameworks to assist the project team in adjusting Transformer architectures. Contributed to the development of a paper titled "DIMST: A Chemical Knowledge-enhanced Multi-view Transformer Model for Structural Elucidation of Mass Spectra" which is currently under submission to ICML.
+##### **AI for Science Research Experience (SJTU X-LANCE Lab)**  
+**November 2024 – Present**  
+Joined the SJTU X-LANCE Lab focusing on AI for Science, currently conducting research on Physics Multi-Agent systems.  
 
 ##### Key Contributions:
-- Assisted in the adjustment and optimization of Transformer models for chemical structure elucidation.
+- Contributed to the paper "ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical Knowledge", primarily responsible for Prompt Engineering work.
+- Participated in the paper "Key Technologies and Applications of Large Language Models in Materials Science", primarily responsible for researching multi-modal LLM literature, which was accepted by Science China.
+
+
+##### Optimizing Muon Trajectory Reconstruction using Graph Neural Networks  
+**September 2025 – Present**  
+Participated in the Fermilab Muon g-2 international collaboration experiment. Developed a lightweight GNN based on Node/Edge MLP targeting high-noise muon track data from detectors.  
+
+##### Key Contributions:
+- Contributed to the paper "DREAMuS: Dark matter REsearch with Advanced Muon Source".
+- Contributed as part of the SJTU Muon Physics team, a core contributing unit of the collaboration that shares the 2026 Breakthrough Prize in Fundamental Physics with global researchers.
 
 ---
 
